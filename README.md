@@ -9,13 +9,11 @@
 I am a cybersecurity enthusiast with hands-on experience in network defense, ethical hacking, and digital forensics. I recently completed a 16-week Cybersecurity Bootcamp, where I worked on real-world Blue Team and Red Team projects.
 
 
-## Objective-what are you trying to do 
 
 [Provide Objective]
  
 With a background in electrical engineering and hands-on cybersecurity training, I’m transitioning into the cybersecurity field with a strong interest in threat detection, system hardening, and incident response. I’m actively pursuing opportunities as a Tier 1 SOC Analyst, Cybersecurity Analyst, Penetration Tester, or Security Analyst, where I can apply my technical foundation and grow within a Blue or Red Team environment.
 
-## Skills
 
 
 
